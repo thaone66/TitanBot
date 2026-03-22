@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Currently playing on the Xge server!!",
+        name: "Currently playing on the Xge server",
         // Activity type number (0 = Playing).
         type: 0, 
       },
